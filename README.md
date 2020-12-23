@@ -1,8 +1,8 @@
-# Hi, my name is Robin 
-I am a student at Epitech Digital Nantes
-🔭 I am currently working Pokedex
-🌱 I am currently learning on Laravel & VueJS
-⚡ Fun facts :
+# Hi, my name is Robin
+I am a student at Epitech Digital Nantes <br>
+🔭 I am currently working Pokedex <br>
+🌱 I am currently learning on Laravel & VueJS <br>
+⚡ Fun facts : <br>
     - I play clarinette and guitar
     - I love video games
 
