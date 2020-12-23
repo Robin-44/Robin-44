@@ -1,6 +1,5 @@
 # Hi, my name is Robin
 I am a student at [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
-🔭 I am currently working Pokedex <br>
 🌱 I am currently learning on Laravel & VueJS <br>
 ⚡ Fun facts : <br>
 - I play clarinette and guitar <br>
