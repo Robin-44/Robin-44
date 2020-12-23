@@ -30,3 +30,4 @@ I am a student at Epitech Digital Nantes <br>
 **System & Browsers**
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732225.svg" alt="Windows" width="20" height="20"/>
 <img src="https://image.flaticon.com/icons/svg/226/226772.svg" alt="Linux" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="20" height="20"/>
