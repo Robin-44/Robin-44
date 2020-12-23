@@ -1,9 +1,8 @@
 # Hi, my name is Robin
 I am a student at [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 🌱 I am currently learning on Laravel & VueJS <br>
-⚡ Fun facts : <br>
-- I play clarinette and guitar <br>
-- I love video games <br>
+🥅 2021 Goals: Contribute more to Open Source projects & post some of my projects <br>
+⚡ Fun facts : I love music and videogames <br>
 
 ## Technologies
 
