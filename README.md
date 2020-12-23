@@ -1,5 +1,5 @@
 # Hi, my name is Robin
-I am a student at [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
+I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 🌱 I am currently learning on Laravel & VueJS <br>
 🥅 2021 Goals: Contribute more to Open Source projects & post some of my projects <br>
 ⚡ Fun facts : I love music and videogames <br>
