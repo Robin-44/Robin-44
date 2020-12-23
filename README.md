@@ -27,7 +27,6 @@ I am a student at Epitech Digital Nantes <br>
 **Software :**
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="20"/>
 
-## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -40,8 +39,3 @@ I am a student at Epitech Digital Nantes <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=robin-44&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin-44&hide=TeX&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=robin-44.robin-44)
