@@ -3,21 +3,18 @@ I am a student at Epitech Digital Nantes <br>
 🔭 I am currently working Pokedex <br>
 🌱 I am currently learning on Laravel & VueJS <br>
 ⚡ Fun facts : <br>
-    - I play clarinette and guitar
-    - I love video games
+- I play clarinette and guitar <br>
+- I love video games <br>
 
 ## Skills
 
 **Programming Languages :**
-<p align="left"> 
-    <!--  -->
-    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/>
-    </a>
-    <a href="https://www.php.net">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-    </a>
-</p>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/>
+</a>
+<a href="https://www.php.net">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+</a>
 
 **Frontend Development :**
 <p align="left">
