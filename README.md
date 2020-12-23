@@ -26,3 +26,6 @@ I am a student at Epitech Digital Nantes <br>
 
 **Software :**
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
+
+<img src="https://www.flaticon.com/svg/static/icons/svg/732/732225.svg" alt="figma" width="20" height="20"/>
+
