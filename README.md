@@ -9,12 +9,8 @@ I am a student at Epitech Digital Nantes <br>
 ## Skills
 
 **Programming Languages :**
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/>
-</a>
-<a href="https://www.php.net">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
 
 **Frontend Development :**
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></a>
@@ -25,11 +21,11 @@ I am a student at Epitech Digital Nantes <br>
 **Framework :**
 <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/></a>
 
-### Database :
+**Database :**
 <a href="https://www.mysql.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="20"/></a>
 
-### Software :
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="20"/></a>
+**Software :**
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="20"/>
 
 ## ⚡ Technologies
 
