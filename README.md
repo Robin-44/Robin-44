@@ -5,7 +5,7 @@ I am a student at [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 - I play clarinette and guitar <br>
 - I love video games <br>
 
-## ⚡ Technologies
+## Technologies
 
 **Programming Languages :**
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/>
