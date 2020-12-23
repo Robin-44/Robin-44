@@ -10,9 +10,6 @@ I am a student at [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 **Programming Languages :**
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
 
 **Frontend Development :**
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>
@@ -33,3 +30,4 @@ I am a student at [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://www.flaticon.com/svg/static/icons/svg/732/732225.svg" alt="Windows" width="20" height="20"/>
 <img src="https://image.flaticon.com/icons/svg/226/226772.svg" alt="Linux" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="20" height="20"/>
+<img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="Terminal" width="20" height="20"/
