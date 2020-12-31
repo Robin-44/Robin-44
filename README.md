@@ -40,11 +40,11 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" width="20" height="20"/>
 
 **Outils Microsoft**
-<img src="https://simpleicons.org/icons/microsoftword.svg" alt="Word" width="20" height="20"/>
-<img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Exel" width="20" height="20"/>
-<img src="https://simpleicons.org/icons/microsoftpowerpoint.svg" alt="Powerpoint" width="20" height="20"/>
-<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Teams" width="20" height="20" backgroundColor="#6264A7"/>
-<img src="https://simpleicons.org/icons/microsoftonedrive.svg" alt="OneDrive" width="20" height="20"/>
+<img src="https://simpleicons.org/icons/microsoftword.svg" alt="Word" width="20" height="20" style="background-color: #2B579A; margin: 2px; padding: 2px; border-radius: 3px;" />
+<img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Exel" width="20" height="20" style="background-color: #217346; margin: 2px; padding: 2px; border-radius: 3px;" />
+<img src="https://simpleicons.org/icons/microsoftpowerpoint.svg" alt="Powerpoint" width="20" height="20" style="background-color: #B7472A; margin: 2px; padding: 2px; border-radius: 3px;" />
+<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Teams" width="20" height="20" style="background-color: #6264A7; margin: 2px; padding: 2px; border-radius: 3px;" />
+<img src="https://simpleicons.org/icons/microsoftonedrive.svg" alt="OneDrive" width="20" height="20" style="background-color: #0078D4; margin: 2px; padding: 2px; border-radius: 3px;" />
 
 
 **Test ?**
