@@ -31,28 +31,9 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/logo/preview.html?image=/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Editor" width="20" height="20"/>
 
 **Test**
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="Google" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="G-Mail" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" width="20" height="20"/>
-
-**Outils Microsoft**
-<img src="https://simpleicons.org/icons/microsoftword.svg" alt="Word" width="20" height="20" style="background-color: #2B579A; margin: 2px; padding: 2px; border-radius: 3px;" />
-<img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Exel" width="20" height="20" style="background-color: #217346; margin: 2px; padding: 2px; border-radius: 3px;" />
-<img src="https://simpleicons.org/icons/microsoftpowerpoint.svg" alt="Powerpoint" width="20" height="20" style="background-color: #B7472A; margin: 2px; padding: 2px; border-radius: 3px;" />
-<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Teams" width="20" height="20" style="background-color: #6264A7; margin: 2px; padding: 2px; border-radius: 3px;" />
-<img src="https://simpleicons.org/icons/microsoftonedrive.svg" alt="OneDrive" width="20" height="20" style="background-color: #0078D4; margin: 2px; padding: 2px; border-radius: 3px;" />
-
-
-**Test ?**
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/adobe_acrobat/adobe_acrobat-icon.svg" alt="Adobe-Acrobat" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/deepl/deepl-icon.svg" alt="Deepl" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="Github" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/libreoffice/libreoffice-icon.svg" alt="Libreoffice" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="Google" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/trello/trello-icon.svg" alt="Trello" width="20" height="20"/>
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
