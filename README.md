@@ -43,7 +43,7 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://simpleicons.org/icons/microsoftword.svg" alt="Word" width="20" height="20"/>
 <img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Exel" width="20" height="20"/>
 <img src="https://simpleicons.org/icons/microsoftpowerpoint.svg" alt="Powerpoint" width="20" height="20"/>
-<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Teams" width="20" height="20" style="background-color:#6264A7;"/>
+<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Teams" width="20" height="20" backgroundColor="#6264A7"/>
 <img src="https://simpleicons.org/icons/microsoftonedrive.svg" alt="OneDrive" width="20" height="20"/>
 
 
