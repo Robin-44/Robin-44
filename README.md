@@ -32,8 +32,9 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" width="20" height="20"/>
 
-**Test**
+**A trier**
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="Google" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="G-Mail" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" width="20" height="20"/>
+<img src="https://simpleicons.org/icons/github.svg" alt="Github" width="20" height="20"/>
