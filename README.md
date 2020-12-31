@@ -39,8 +39,15 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" width="20" height="20"/>
 
-**Plus**
-<img src="https://simpleicons.org/icons/microsoftword.svg" alt="Google-Drive" width="20" height="20"/>
+**Outils Microsoft**
+<img src="https://simpleicons.org/icons/microsoftword.svg" alt="Word" width="20" height="20"/>
+<img src="https://simpleicons.org/icons/microsoftexcel.svg" alt="Exel" width="20" height="20"/>
+<img src="https://simpleicons.org/icons/microsoftpowerpoint.svg" alt="Powerpoint" width="20" height="20"/>
+<img src="https://simpleicons.org/icons/microsoftteams.svg" alt="Teams" width="20" height="20" style="background-color:#6264A7;"/>
+<img src="https://simpleicons.org/icons/microsoftonedrive.svg" alt="OneDrive" width="20" height="20"/>
+
+
+**Test ?**
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/adobe_acrobat/adobe_acrobat-icon.svg" alt="Adobe-Acrobat" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/deepl/deepl-icon.svg" alt="Deepl" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="Github" width="20" height="20"/>
@@ -48,6 +55,4 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="Google" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft/microsoft-icon.svg" alt="Microsoft" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/trello/trello-icon.svg" alt="Trello" width="20" height="20"/>
-
-**Test ?**
 [![GitHub](icons/github.png)](https://github.com/hussainweb)
