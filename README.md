@@ -28,7 +28,7 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="figma" width="20" height="20"/>
 
 **System & Browsers**
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" width="20" height="20"/>
 
