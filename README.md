@@ -42,7 +42,7 @@ I am a student in [@Epitech_Digital](https://www.epitech.eu/digital/)<br>
 **Plus**
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/adobe_acrobat/adobe_acrobat-icon.svg" alt="Adobe-Acrobat" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/deepl/deepl-icon.svg" alt="Deepl" width="20" height="20"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/firefox/firefox-icon.svg" alt="Firefox" width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="Firefox" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-icon.svg" alt="Github" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/libreoffice/libreoffice-icon.svg" alt="Libreoffice" width="20" height="20"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg" alt="Google" width="20" height="20"/>
